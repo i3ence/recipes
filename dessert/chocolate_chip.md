@@ -2,7 +2,7 @@
 * 300g cane sugar
 * 2 eggs
 * 325g all purpose flour
-* 1 tsp salt
+* 1 tsp salt, 6 g
 * half tsp baking soda
 * 3/4 tsp cinnamon
 * Chocolate pieces
