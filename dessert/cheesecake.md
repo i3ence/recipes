@@ -6,10 +6,19 @@ for 9inch (410 sqcm):
 * nutmeg
 * 56g melted butter
 
+for 6inch (1/4 of original recipe):
+
+* 40 g graham crackers
+* 7.5 g sugar
+* 0.5 g salt
+* nutmeg
+* 14g melted butter
+
 press mixture into greased springform pan
 
-bake at 170c for 8 min, let it cool completely
+for 9inch (410 sqcm):
 
+bake at 170c for 8 min, let it cool completely
 
 * 900g cream cheese
 * 220g sugar
@@ -20,7 +29,18 @@ bake at 170c for 8 min, let it cool completely
 * pinch of salt
 * 20g cornstarch
 
+for 6inch:
 
+bake at 170c for ?? min, let it cool completely
+
+* 225g cream cheese
+* 55g sugar
+* 1 egg
+* 15 ml (1 tbsp) heavy cream
+* 14g (1 tbsp) creme fraiche
+* 0.5 tsp vanilla extract
+* pinch of salt
+* 5g cornstarch
 
 beat cheese with sugar, add eggs, one after each other
 add rest of ingredients and mix
