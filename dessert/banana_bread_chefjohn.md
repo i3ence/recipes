@@ -19,6 +19,6 @@ Steps:
 * mix flour, salt, baking powder, baking soda in a bowl
 * mix soft butter and sugar (spatula), whisk in banana mixture
 ** then the 2 eggs, one at a time
-** add vanilla, nuts, chocolate, flour mix, then fold until flour is barely integrated
+** add vanilla, milk, nuts, chocolate, flour mix, then fold until flour is barely integrated
 
 *Bake in a 9x4 loaf pan at 160C for about 1 hour 10 minutes.
