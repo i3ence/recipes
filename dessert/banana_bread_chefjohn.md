@@ -16,7 +16,7 @@ Ingredients:
 
 Steps:
 * mash banana
-* mix flour, salt, baking powder, baking soda in a bowl
+* mix flour, salt, baking powder, baking soda in a bowl (extra 1tsp cinnamon)
 * mix soft butter and sugar (spatula), whisk in banana mixture
 ** then the 2 eggs, one at a time
 ** add vanilla, milk, nuts, chocolate, flour mix, then fold until flour is barely integrated
