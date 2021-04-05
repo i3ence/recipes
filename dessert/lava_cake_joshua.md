@@ -16,7 +16,7 @@
 
 ## Instructions
 
-### Gahance
+### Ganache
 * barely simmer cream
 * mix in bowl with chocolate
 * let it rest for 3 min, whisk together
