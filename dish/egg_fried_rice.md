@@ -17,6 +17,7 @@ Sauce
 add two finely diced shallots + 2 finely diced red chilis + 2 green finely sliced onions
 stir fry for 2-3 minutes, medium heat until soft and fragrant
 whisk 3 eggs
+
 add to eggs stir fried vegetables
 add rice (3.5 to 4 cups)
 stir fry until rice is toasted
