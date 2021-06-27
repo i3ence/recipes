@@ -26,5 +26,7 @@ Blueberry:
 * 1/2 tsp vanilla
 * 1/2 tbsp honey
 
+Bake at 180c for 25 min
+
 
 for muffins mixed: 3 bananas (6x everything)
