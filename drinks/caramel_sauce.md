@@ -2,9 +2,9 @@ based on: https://www.youtube.com/watch?v=TcbuMZAzrW4&t=415s
 
 ## Ingredients
 * 1 cup sugar
-* 2.5 tbsp water
+* 60 ml water
 * 2tbsp bourbon
-* 4.5tbsp butter
+* 5tbsp (70g) butter
 * 1tsp fine sea salt
 * half cup heavy cream
 * 1 tsp vanila extract
