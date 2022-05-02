@@ -1,0 +1,5 @@
+| Coffee Brand | Grind Size | Brew time                   | Weight | Volume | Crema (1-10) | Taste                                               | Notes                                                 |
+| ------------ | ---------- | --------------------------- | ------ | ------ | ------------ | --------------------------------------------------- | ----------------------------------------------------- |
+| Chicco D'Oro | < 1        | 1 min +, otherwise no fluid | 14g    | 30ml   | 7            | Bitter                                              | Took too long to brew                                 |
+| Chicco D'Oro | 1          | 25sec                       | 15g    | 32ml   | 8            | Bit bitter lately, was fine when grounds were fresh | Quite okay in the beginning, now becoming more bitter |
+|              |            |                             |        |        |              |                                                     |                                                       |

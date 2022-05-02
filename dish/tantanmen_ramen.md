@@ -12,8 +12,8 @@
 ** 1 tbsp chinese chili bean paste
 ** 1 tbsp oyster sauce
 ** 1 tbsp sake or mirin
-### Preparation
 
+### Preparation
 * sauce: Mix sugar, oyster sauce, chili bean paste and mirin/sake
 * heat chili oil in wok, add pork
 * when pork is is cooked, add onions, garlic, ginger, cook for a minute

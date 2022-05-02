@@ -28,3 +28,16 @@
 * parsley
 * half lausanne cup of pasta water
 * 40ml splash of starchy water (or more pasta water, maybe reduced pasta water?)
+
+
+# Aglio e Olio v3 (2022-03-02)
+2 person:
+* 200g Spaghetti (Sapori, Via dei Pastai Gragnano, 10 min -> try 9 mins)
+    * 1.7l water, 1/2tbsp salt -> 
+* 180ml oil
+* 1/3 / 5-6 cloves garlic per person (half bulb(7-8 cloves) was a bit too much)
+* 2 chili peppers
+* sprinkle of lemon juice
+* parsley
+* half lausanne cup of pasta water
+* was too oily
