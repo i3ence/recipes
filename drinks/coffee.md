@@ -2,4 +2,9 @@
 | ------------ | ---------- | --------------------------- | ------ | ------ | ------------ | --------------------------------------------------- | ----------------------------------------------------- |
 | Chicco D'Oro | < 1        | 1 min +, otherwise no fluid | 14g    | 30ml   | 7            | Bitter                                              | Took too long to brew                                 |
 | Chicco D'Oro | 1          | 25sec                       | 15g    | 32ml   | 8            | Bit bitter lately, was fine when grounds were fresh | Quite okay in the beginning, now becoming more bitter |
+| Chicco D'Oro | 3          | 17sec                       | 15g    | 15ml   | 6            | Sour, also a bit bitter                             | Need to extract more                                  |
+|              |            |                             |        |        |              |                                                     |                                                       |
+|              |            |                             |        |        |              |                                                     |                                                       |
+|              |            |                             |        |        |              |                                                     |                                                       |
+|              |            |                             |        |        |              |                                                     |                                                       |
 |              |            |                             |        |        |              |                                                     |                                                       |
